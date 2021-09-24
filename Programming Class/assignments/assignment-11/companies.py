@@ -1,3 +1,4 @@
+# Author: Micah Lee
 companies = ("ScanSource", "Blackboard", "AVX", "3D Systems", "Life Cycle Engineering", "Palmetto", "Human Technologies", "O'Neal", "HKA Enterprises", "UC Synergetic")
 wishList = []
 
