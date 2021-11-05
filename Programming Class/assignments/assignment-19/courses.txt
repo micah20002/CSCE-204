@@ -1,0 +1,8 @@
+csce101: Introduction to Computer Concepts
+csce102: General Applications Programming
+csce145: Algorithmic Design 1
+csce146: Algorithmic Design 2
+csce190: Computing in the Modern World
+csce201: Introduction to Computer Security
+csce204: Program Design and Development
+csce205: Business Applications Programming
